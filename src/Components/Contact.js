@@ -1,6 +1,7 @@
 import React from 'react';
 //import logo from './logo.svg';
 import './Contact.css';
+import ContactList from './ContactList'
 
 function Contact(props) {
   return (
